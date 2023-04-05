@@ -3,5 +3,4 @@ Click Create account.
 Enter your name.
 In the "Username" field, enter a username.
 Enter and confirm your password. ...
-Click Next. ...
-Click Next.
+Click Next button
