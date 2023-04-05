@@ -1,0 +1,7 @@
+Go to the Google Account sign in page.
+Click Create account.
+Enter your name.
+In the "Username" field, enter a username.
+Enter and confirm your password. ...
+Click Next. ...
+Click Next.
